@@ -264,3 +264,8 @@ section {
 .scale-up-animation:hover {
     transform: scale(1.05);
 }
+
+.pretty-link {
+    text-decoration: none;
+    color: black;
+}
